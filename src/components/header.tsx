@@ -8,7 +8,7 @@ import { CopyButton } from "./copyButton";
 
 export function Header() {
   return (
-    <main className="flex w-full justify-between p-4 text-gray-700">
+    <main className="flex w-full justify-between p-6 text-gray-700">
 
       <div className="flex items-center gap-2">
         <MdEmail />

@@ -13,7 +13,7 @@ export default function Home() {
         <div className="w-full">
           <Header />
         </div>
-        <div className="grid md:grid-cols-2 h-full p-6 max-md:grid-cols">
+        <div className="grid md:grid-cols-2 h-full  max-md:grid-cols">
           <div className="p-6 flex flex-col justify-center">
             <h1 className="text-4xl font-bold">André Caracioly</h1>
             <h2 className="text-2xl font-semibold">{"<Desenvolvedor />"}</h2>
